@@ -1,7 +1,9 @@
 <div style="display: inline_block"><br>
-  <img align="center" alt="nath-Jv" height="30" width="40" src<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-line.svg" />
+  <img align="center" alt="nath-Cplusplus" height="30" width="40" src<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />    
+  <img align="center" alt="nath-C" height="30" width="40" src<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="nath-Java" height="30" width="40" src<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
+  <img align="center" alt="nath-Python" height="30" width="40" src<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
           
           
-  <img align="center" alt="nath-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+          
+          
